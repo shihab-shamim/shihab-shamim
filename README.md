@@ -1,6 +1,7 @@
 ![logo](https://github.com/shihab-shamim/shihab-shamim/blob/main/1.png)
 
 <h1 align="center">Hi 👋, I'm MD.SHIHAB SHAMIM</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-shamim&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-shamim" /> </p>
 
 <p>👨‍💻 MERN Stack Developer | 🌐 JavaScript Enthusiast | 🚀 Building scalable web applications with MongoDB, Express.js, React.js, and Node.js.
 
@@ -15,7 +16,7 @@ This description highlights your specialization in the MERN Stack (MongoDB, Expr
 
 
   
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shihab-shamim&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-shamim" /> </p>
+
 
 
 
