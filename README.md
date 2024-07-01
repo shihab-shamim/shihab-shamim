@@ -21,7 +21,7 @@ This description highlights your specialization in the MERN Stack (MongoDB, Expr
 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-shamim&show_icons=true&locale=en" alt="shihab-shamim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-shamim&show_icons=true&count_private=true" alt="shihab-shamim" /></p>
 
 ## :computer: Technologies that I know
 
