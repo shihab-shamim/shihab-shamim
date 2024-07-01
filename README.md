@@ -34,6 +34,30 @@ This description highlights your specialization in the MERN Stack (MongoDB, Expr
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
+## Skills
+
+### Front-end Development
+- HTML5
+- CSS3 / SCSS
+- JavaScript (ES6+)
+- React.js
+- Responsive Design
+
+### Back-end Development
+- Node.js
+- Express.js
+- MongoDB
+- RESTful APIs
+- Authentication & Authorization (JWT)
+
+### Additional Tools & Technologies
+- Git & GitHub
+- Bootstrap / Tailwind CSS
+- Context API
+
+
+
+
 
 
 
