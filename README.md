@@ -53,7 +53,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shihab-shamim&show_icons=true&locale=en" alt="shihab-shamim" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shihab-shamim&show_icons=true&locale=en&layout=compact" alt="shihab-shamim" /></p>
+
 
 
 
