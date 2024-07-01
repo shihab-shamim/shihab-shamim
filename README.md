@@ -43,7 +43,11 @@ This description highlights your specialization in the MERN Stack (MongoDB, Expr
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/express.png"/>
 <img src="https://github.com/mir-hussain/mir-hussain/blob/main/images/icons/mongo.png"/>
 </p><br/>
-## Skills
+
+
+<h3 align="center">Skill</h3>
+<hr>
+
 
 ### Front-end Development
 - HTML5
