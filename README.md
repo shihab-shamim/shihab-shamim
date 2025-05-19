@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=shihab-shamim&label=Profile%20views&color=0e75b6&style=flat" alt="shihab-shamim" /> 
 </p>
 
-<p align="center">👨‍💻 MERN Stack Developer | 🌐 JavaScript Enthusiast | 🚀 Building scalable web applications with MongoDB, Express.js, React.js, and Node.js.</p>
+<p align="center">👨‍💻 MERN Stack Developer | wordpress plugin developer | 🌐 JavaScript Enthusiast | 🚀 Building scalable web applications with MongoDB, Express.js, React.js, and Node.js.</p>
 <p align="center">
   I am a dedicated MERN Stack Developer with a passion for JavaScript and web development. My expertise in MongoDB, Express.js, React.js, and Node.js allows me to build scalable and efficient web applications. I am committed to continuous learning and actively engage with the developer community.
 </p>
