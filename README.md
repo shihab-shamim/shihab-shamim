@@ -1,4 +1,4 @@
-<img width="542" height="451" alt="image" src="https://github.com/user-attachments/assets/d89b5b10-046c-4cf4-b8f4-dcfea630f290" />![logo](https://github.com/shihab-shamim/shihab-shamim/blob/main/1.png)
+![logo](https://github.com/shihab-shamim/shihab-shamim/blob/main/1.png)
 
 <h1 align="center">Hi👋, I'm MD. SHIHAB SHAMIM</h1>
 <p align="center"> 
